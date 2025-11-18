@@ -37,7 +37,7 @@ conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=
 pip install ultralytics
 
 # Clone the repository
-git clone https://github.com/oracl4/RoadDamageDetection.git
+git clone https://github.com/oracl4/RoadDamageDetection.git](https://github.com/Harsh-Gopal/roadrash.git
 cd RoadDamageDetection
 
 # Install requirements
@@ -115,7 +115,3 @@ This is the training result of the YOLOv8s model that trained on the filtered Ja
 
 ## License and Citations
 - Road Damage Dataset from Crowdsensing-based Road Damage Detection Challenge (CRDDC2022)
-- All rights reserved on YOLOv8 license permits by [Ultralytics](https://github.com/ultralytics/ultralytics) and [Streamlit](https://streamlit.io/) framework
-
----
-This project is created for the [Road Damage Detection Challenge](https://s.id/RDDHariJalan23) by [Ministry of Public Works and Housing](https://pu.go.id/) for celebrating the "Peringatan Hari Jalan 2023"
